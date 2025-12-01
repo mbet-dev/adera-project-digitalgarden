@@ -97,4 +97,6 @@ xml file
 
 High-level Representations
 
-![[Pasted image 20251126233205.png\|Pasted image 20251126233205.png]]
+[[Project-Adera-EcoSystem (AHA)/diagram-export-11-26-2025-10_22_59-PM.svg]]
+
+
