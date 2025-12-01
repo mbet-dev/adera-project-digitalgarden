@@ -97,4 +97,4 @@ xml file
 
 High-level Representations
 
-![Pasted image 20251126233205.png](/img/user/Pasted%20image%2020251126233205.png)
+![[Pasted image 20251126233205.png\|Pasted image 20251126233205.png]]
